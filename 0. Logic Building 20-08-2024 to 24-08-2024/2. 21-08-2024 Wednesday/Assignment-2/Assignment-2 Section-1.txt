@@ -1,0 +1,31 @@
+Section 1: Error-Driven Learning in Java 
+
+Snippet 1: Main method is not static
+Snippet 2: Main method not found in class
+Snippet 3: Main method must return a value of type void in class
+Snippet 4: Main method not found in class
+Snippet 5: Yes. main is Overloaded
+Snippet 6: cannot find symbol
+Snippet 7: incompatible types: String cannot be converted to int
+Snippet 8: ')' expected
+Snippet 9: error: not a statement and error: illegal start of type
+ System.out.println(class);
+Snippet 10: error: non-static method display() cannot be referenced from a static context
+Snippet 11: Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 5
+Snippet 12: Infinite Loop ......
+Snippet 13: Exception in thread "main" java.lang.NullPointerException
+Snippet 14: error: incompatible types: String cannot be converted to double
+Snippet 15: error: incompatible types: possible lossy conversion from double to int
+Snippet 16: 2.0
+Snippet 17: error: illegal start of expression
+Snippet 18: 20
+Snippet 19: Exception in thread "main" java.lang.ArithmeticException: / by zero
+Snippet 20: error: ';' expected
+Snippet 21: error: reached end of file while parsing
+}
+Snippet 22: error: illegal start of expression
+Snippet 23: Value is 2	Value is 3	Default case
+Snippet 24: Level 1	Level 2	Level 3	Unknown level
+Snippet 25: error: incompatible types: possible lossy conversion from double to int
+Snippet 26: error: duplicate case label
+ case 5:
