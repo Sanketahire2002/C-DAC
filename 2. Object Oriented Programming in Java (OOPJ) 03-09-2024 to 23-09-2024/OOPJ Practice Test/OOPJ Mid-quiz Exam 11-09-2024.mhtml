@@ -1,0 +1,2072 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://testmozusercontent.com/q/13934592/student
+Subject: OOPJ MID QUIZ AUGUST 24
+Date: Wed, 11 Sep 2024 12:29:15 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--KaM4gsnOlXKl4TXu3q9Zr2vlsXqMgKabEOeRmo1dwp----"
+
+
+------MultipartBoundary--KaM4gsnOlXKl4TXu3q9Zr2vlsXqMgKabEOeRmo1dwp----
+Content-Type: text/html
+Content-ID: <frame-39B19E8F2762EB1D29232C2577258022@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://testmozusercontent.com/q/13934592/student
+
+<!DOCTYPE html><html><head><meta http-equiv=3D"Content-Type" content=3D"tex=
+t/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D=
+"cid:css-abf0d379-2c44-4b22-82d4-fa7a5c6a0276@mhtml.blink" />
+   =20
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1">
+    <title>OOPJ MID QUIZ AUGUST 24</title>
+    <meta name=3D"description" content=3D"">
+    <meta name=3D"ROBOTS" content=3D"NOODP">
+   =20
+        <link rel=3D"shortcut icon" href=3D"https://testmozusercontent.com/=
+static/1717350659/favicon.ico" type=3D"image/x-icon">
+        <link rel=3D"icon" href=3D"https://testmozusercontent.com/static/17=
+17350659/favicon.ico" type=3D"image/x-icon">
+        <link href=3D"https://testmozusercontent.com/static/1717350659/css/=
+reboot.css" rel=3D"stylesheet" type=3D"text/css">
+        <link href=3D"https://testmozusercontent.com/static/1717350659/css/=
+quiz.css" rel=3D"stylesheet" type=3D"text/css">
+       =20
+       =20
+            <link href=3D"https://testmozusercontent.com/static/1717350659/=
+css/print.css" rel=3D"stylesheet" type=3D"text/css" media=3D"print">
+       =20
+       =20
+       =20
+       =20
+
+       =20
+
+   =20
+</head>
+<body class=3D"quizcss">
+
+<div id=3D"student-messages">
+   =20
+    <div style=3D"display:none" id=3D"duplicate-scoresheet" class=3D"django=
+-warning">
+        You are signed in to this test from another device. If possible, yo=
+u should exit the test on the other device before continuing. If you believ=
+e this is an error, you should contact your test administrator.
+        <button type=3D"button">Dismiss</button>
+    </div>
+    <div style=3D"display:none" id=3D"error-offline-template" class=3D"djan=
+go-warning">
+        Network Error: Your response was not saved.
+        <button type=3D"button">Dismiss</button>
+    </div>
+    <div style=3D"display:none" id=3D"error-server-template" class=3D"djang=
+o-warning">
+        Server Error: Your response was not saved.
+        <button type=3D"button">Dismiss</button>
+    </div>
+</div>
+
+
+    <div class=3D"quiz-header" id=3D"quiz-header">
+       =20
+    </div>
+
+
+
+
+
+
+<!--
+
+    1 second
+    1 minute
+    1 hour
+
+-->
+
+    <div id=3D"media-pending-message" style=3D"display:none">
+        Question #__ has a pending upload. You should wait for it to finish=
+, or delete it.
+    </div>
+
+
+
+    <div id=3D"media-no-room-message" style=3D"display:none">
+       =20
+        You can upload a maximum of 10 files.
+    </div>
+
+
+<div id=3D"media-confirm-message" style=3D"display:none">
+    Are you sure you want to delete this file? Click OK to confirm.
+</div>
+<div id=3D"media-delete-message" style=3D"display:none">
+   =20
+    Delete
+</div>
+<div id=3D"confirm-message" style=3D"display:none">
+    <!-- used in the JavaScript -->
+   =20
+    Are you sure you want to submit with a blank for question __? Click OK =
+to confirm.
+</div>
+
+<div id=3D"timer" style=3D"display: block;">
+    <div id=3D"timer-time">
+        Time remaining: <span id=3D"time_left">00:01<span class=3D"timer-ho=
+ver timer-seconds">:39</span></span>
+        <br><span class=3D"timer-hover" id=3D"timer-hide">Click to hide</sp=
+an>
+    </div>
+    <div id=3D"timer-notice">
+        Click to see time
+    </div>
+</div>
+
+<div id=3D"content" class=3D"quiz">
+    <h1 id=3D"title">
+        OOPJ MID QUIZ AUGUST 24
+    </h1>
+   =20
+        <div id=3D"introduction"></div>
+   =20
+   =20
+
+
+    <form method=3D"post" action=3D"https://testmozusercontent.com/q/139345=
+92/student" id=3D"main-form" autocomplete=3D"off">
+       =20
+       =20
+
+       =20
+
+
+       =20
+            <div role=3D"region" aria-label=3D"Question 1" data-number=3D"1=
+" data-question-id=3D"247183824" class=3D"component  ">
+               =20
+                <div class=3D"component-inner">
+                    <!-- if 1 or not one_per_page %} -->
+                   =20
+                        <div class=3D"question-number" aria-label=3D"Questi=
+on number">1.</div>
+                   =20
+                    <div class=3D"question-wrapper in-quiz ">
+                        <div class=3D"question-header">
+                            <!-- 1 or not one_per_page -->
+                           =20
+                               =20
+                           =20
+                            <div class=3D"question"><p>what will be the out=
+put of following code?</p><p>&nbsp; class Program{</p><p>&nbsp; &nbsp; publ=
+ic static void main( String[] args ){</p><p>&nbsp; &nbsp; &nbsp; int number=
+ =3D Integer.parseInt("A");</p><p>&nbsp; &nbsp; }</p><p>&nbsp; }</p><p>&nbs=
+p;</p></div>
+                        </div>
+
+                       =20
+                           =20
+                                <div class=3D"answer-wrapper ">
+                                   =20
+       =20
+           =20
+                <label class=3D"answer hover" for=3D"247183824_0">
+                    <div><input type=3D"radio" name=3D"q-247183824" value=
+=3D"911130862" id=3D"247183824_0"></div>
+                    <div><p>A) 65</p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183824_1">
+                    <div><input type=3D"radio" name=3D"q-247183824" value=
+=3D"911130902" id=3D"247183824_1"></div>
+                    <div><p>B) 97</p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183824_2">
+                    <div><input type=3D"radio" name=3D"q-247183824" value=
+=3D"911130942" id=3D"247183824_2"></div>
+                    <div><p>&nbsp; C) IllegalArgumentException</p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183824_3">
+                    <div><input type=3D"radio" name=3D"q-247183824" value=
+=3D"911130982" id=3D"247183824_3"></div>
+                    <div><p>&nbsp; D) NumberFormatException</p></div>
+                </label>
+           =20
+       =20
+   =20
+                                </div> <!-- /answer-wrapper -->
+                           =20
+                       =20
+                    </div> <!-- /question-wrapper -->
+                </div> <!-- component-inner -->
+            </div><!-- /component -->
+       =20
+            <div role=3D"region" aria-label=3D"Question 2" data-number=3D"2=
+" data-question-id=3D"247183834" class=3D"component  ">
+               =20
+                <div class=3D"component-inner">
+                    <!-- if 1 or not one_per_page %} -->
+                   =20
+                        <div class=3D"question-number" aria-label=3D"Questi=
+on number">2.</div>
+                   =20
+                    <div class=3D"question-wrapper in-quiz ">
+                        <div class=3D"question-header">
+                            <!-- 1 or not one_per_page -->
+                           =20
+                               =20
+                           =20
+                            <div class=3D"question"><p>If an expression con=
+tains double, int, float, long, then the whole expression will be promoted =
+into which of these data types? </p></div>
+                        </div>
+
+                       =20
+                           =20
+                                <div class=3D"answer-wrapper ">
+                                   =20
+       =20
+           =20
+                <label class=3D"answer hover" for=3D"247183834_0">
+                    <div><input type=3D"radio" name=3D"q-247183834" value=
+=3D"911130872" id=3D"247183834_0"></div>
+                    <div><p>a) long </p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183834_1">
+                    <div><input type=3D"radio" name=3D"q-247183834" value=
+=3D"911130912" id=3D"247183834_1"></div>
+                    <div><p>b) int </p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183834_2">
+                    <div><input type=3D"radio" name=3D"q-247183834" value=
+=3D"911130952" id=3D"247183834_2"></div>
+                    <div><p>c) double </p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183834_3">
+                    <div><input type=3D"radio" name=3D"q-247183834" value=
+=3D"911130992" id=3D"247183834_3"></div>
+                    <div><p>d) float </p></div>
+                </label>
+           =20
+       =20
+   =20
+                                </div> <!-- /answer-wrapper -->
+                           =20
+                       =20
+                    </div> <!-- /question-wrapper -->
+                </div> <!-- component-inner -->
+            </div><!-- /component -->
+       =20
+            <div role=3D"region" aria-label=3D"Question 3" data-number=3D"3=
+" data-question-id=3D"247183798" class=3D"component  ">
+               =20
+                <div class=3D"component-inner">
+                    <!-- if 1 or not one_per_page %} -->
+                   =20
+                        <div class=3D"question-number" aria-label=3D"Questi=
+on number">3.</div>
+                   =20
+                    <div class=3D"question-wrapper in-quiz ">
+                        <div class=3D"question-header">
+                            <!-- 1 or not one_per_page -->
+                           =20
+                               =20
+                           =20
+                            <div class=3D"question"><p>Code name of Java 8 =
+is ______________.</p></div>
+                        </div>
+
+                       =20
+                           =20
+                                <div class=3D"answer-wrapper ">
+                                   =20
+       =20
+           =20
+                <label class=3D"answer hover" for=3D"247183798_0">
+                    <div><input type=3D"radio" name=3D"q-247183798" value=
+=3D"911130836" id=3D"247183798_0"></div>
+                    <div><p>A) Oak</p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183798_1">
+                    <div><input type=3D"radio" name=3D"q-247183798" value=
+=3D"911130876" id=3D"247183798_1"></div>
+                    <div><p>B) Spider</p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183798_2">
+                    <div><input type=3D"radio" name=3D"q-247183798" value=
+=3D"911130916" id=3D"247183798_2"></div>
+                    <div><p>C) Silk</p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183798_3">
+                    <div><input type=3D"radio" name=3D"q-247183798" value=
+=3D"911130956" id=3D"247183798_3"></div>
+                    <div><p>D) Green</p></div>
+                </label>
+           =20
+       =20
+   =20
+                                </div> <!-- /answer-wrapper -->
+                           =20
+                       =20
+                    </div> <!-- /question-wrapper -->
+                </div> <!-- component-inner -->
+            </div><!-- /component -->
+       =20
+            <div role=3D"region" aria-label=3D"Question 4" data-number=3D"4=
+" data-question-id=3D"247183826" class=3D"component  ">
+               =20
+                <div class=3D"component-inner">
+                    <!-- if 1 or not one_per_page %} -->
+                   =20
+                        <div class=3D"question-number" aria-label=3D"Questi=
+on number">4.</div>
+                   =20
+                    <div class=3D"question-wrapper in-quiz ">
+                        <div class=3D"question-header">
+                            <!-- 1 or not one_per_page -->
+                           =20
+                               =20
+                           =20
+                            <div class=3D"question"><p>Observe the below co=
+de and choose name of concept</p><p>&nbsp; &nbsp; class Program{</p><p>&nbs=
+p; &nbsp; &nbsp; public static void main( String[] args ){</p><p>&nbsp; &nb=
+sp; &nbsp; &nbsp; int number =3D 123;</p><p>&nbsp; &nbsp; &nbsp; &nbsp; Str=
+ing str =3D String.valueOf( number );</p><p>&nbsp; &nbsp; &nbsp; }</p><p>&n=
+bsp; &nbsp; }</p></div>
+                        </div>
+
+                       =20
+                           =20
+                                <div class=3D"answer-wrapper ">
+                                   =20
+       =20
+           =20
+                <label class=3D"answer hover" for=3D"247183826_0">
+                    <div><input type=3D"radio" name=3D"q-247183826" value=
+=3D"911130864" id=3D"247183826_0"></div>
+                    <div><p>&nbsp; A) Widening</p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183826_1">
+                    <div><input type=3D"radio" name=3D"q-247183826" value=
+=3D"911130904" id=3D"247183826_1"></div>
+                    <div><p>&nbsp; B) Narrowing</p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183826_2">
+                    <div><input type=3D"radio" name=3D"q-247183826" value=
+=3D"911130944" id=3D"247183826_2"></div>
+                    <div><p>&nbsp; C) Boxing</p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183826_3">
+                    <div><input type=3D"radio" name=3D"q-247183826" value=
+=3D"911130984" id=3D"247183826_3"></div>
+                    <div><p>&nbsp; D) UnBoxing</p></div>
+                </label>
+           =20
+       =20
+   =20
+                                </div> <!-- /answer-wrapper -->
+                           =20
+                       =20
+                    </div> <!-- /question-wrapper -->
+                </div> <!-- component-inner -->
+            </div><!-- /component -->
+       =20
+            <div role=3D"region" aria-label=3D"Question 5" data-number=3D"5=
+" data-question-id=3D"247183810" class=3D"component  ">
+               =20
+                <div class=3D"component-inner">
+                    <!-- if 1 or not one_per_page %} -->
+                   =20
+                        <div class=3D"question-number" aria-label=3D"Questi=
+on number">5.</div>
+                   =20
+                    <div class=3D"question-wrapper in-quiz ">
+                        <div class=3D"question-header">
+                            <!-- 1 or not one_per_page -->
+                           =20
+                               =20
+                           =20
+                            <div class=3D"question"><p>What is the default =
+value of an Enum in Java?</p></div>
+                        </div>
+
+                       =20
+                           =20
+                                <div class=3D"answer-wrapper ">
+                                   =20
+       =20
+           =20
+                <label class=3D"answer hover" for=3D"247183810_0">
+                    <div><input type=3D"radio" name=3D"q-247183810" value=
+=3D"911130848" id=3D"247183810_0"></div>
+                    <div><p>A) null</p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183810_1">
+                    <div><input type=3D"radio" name=3D"q-247183810" value=
+=3D"911130888" id=3D"247183810_1"></div>
+                    <div><p>B) 0</p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183810_2">
+                    <div><input type=3D"radio" name=3D"q-247183810" value=
+=3D"911130928" id=3D"247183810_2"></div>
+                    <div><p>C) An instance of the first constant in the Enu=
+m</p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183810_3">
+                    <div><input type=3D"radio" name=3D"q-247183810" value=
+=3D"911130968" id=3D"247183810_3"></div>
+                    <div><p>D) An instance of the last constant in the Enum=
+</p></div>
+                </label>
+           =20
+       =20
+   =20
+                                </div> <!-- /answer-wrapper -->
+                           =20
+                       =20
+                    </div> <!-- /question-wrapper -->
+                </div> <!-- component-inner -->
+            </div><!-- /component -->
+       =20
+            <div role=3D"region" aria-label=3D"Question 6" data-number=3D"6=
+" data-question-id=3D"247183804" class=3D"component  ">
+               =20
+                <div class=3D"component-inner">
+                    <!-- if 1 or not one_per_page %} -->
+                   =20
+                        <div class=3D"question-number" aria-label=3D"Questi=
+on number">6.</div>
+                   =20
+                    <div class=3D"question-wrapper in-quiz ">
+                        <div class=3D"question-header">
+                            <!-- 1 or not one_per_page -->
+                           =20
+                               =20
+                           =20
+                            <div class=3D"question"><p>By default access mo=
+difier of the members of the class is ______.</p></div>
+                        </div>
+
+                       =20
+                           =20
+                                <div class=3D"answer-wrapper ">
+                                   =20
+       =20
+           =20
+                <label class=3D"answer hover" for=3D"247183804_0">
+                    <div><input type=3D"radio" name=3D"q-247183804" value=
+=3D"911130842" id=3D"247183804_0"></div>
+                    <div><p>A) private</p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183804_1">
+                    <div><input type=3D"radio" name=3D"q-247183804" value=
+=3D"911130882" id=3D"247183804_1"></div>
+                    <div><p>B) package private</p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183804_2">
+                    <div><input type=3D"radio" name=3D"q-247183804" value=
+=3D"911130922" id=3D"247183804_2"></div>
+                    <div><p>C) protected</p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183804_3">
+                    <div><input type=3D"radio" name=3D"q-247183804" value=
+=3D"911130962" id=3D"247183804_3"></div>
+                    <div><p>D) public</p></div>
+                </label>
+           =20
+       =20
+   =20
+                                </div> <!-- /answer-wrapper -->
+                           =20
+                       =20
+                    </div> <!-- /question-wrapper -->
+                </div> <!-- component-inner -->
+            </div><!-- /component -->
+       =20
+            <div role=3D"region" aria-label=3D"Question 7" data-number=3D"7=
+" data-question-id=3D"247183806" class=3D"component  ">
+               =20
+                <div class=3D"component-inner">
+                    <!-- if 1 or not one_per_page %} -->
+                   =20
+                        <div class=3D"question-number" aria-label=3D"Questi=
+on number">7.</div>
+                   =20
+                    <div class=3D"question-wrapper in-quiz ">
+                        <div class=3D"question-header">
+                            <!-- 1 or not one_per_page -->
+                           =20
+                               =20
+                           =20
+                            <div class=3D"question"><p>Which of the followi=
+ng statements is true about importing classes from a package in Java?</p></=
+div>
+                        </div>
+
+                       =20
+                           =20
+                                <div class=3D"answer-wrapper ">
+                                   =20
+       =20
+           =20
+                <label class=3D"answer hover" for=3D"247183806_0">
+                    <div><input type=3D"radio" name=3D"q-247183806" value=
+=3D"911130844" id=3D"247183806_0"></div>
+                    <div><p>A) You can import classes from any package with=
+out any restrictions.</p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183806_1">
+                    <div><input type=3D"radio" name=3D"q-247183806" value=
+=3D"911130884" id=3D"247183806_1"></div>
+                    <div><p>B) You must import classes from a package one a=
+t a time.</p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183806_2">
+                    <div><input type=3D"radio" name=3D"q-247183806" value=
+=3D"911130924" id=3D"247183806_2"></div>
+                    <div><p>C) You can use the wildcard character to import=
+ all classes from a package</p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183806_3">
+                    <div><input type=3D"radio" name=3D"q-247183806" value=
+=3D"911130964" id=3D"247183806_3"></div>
+                    <div><p>D) None of the above</p></div>
+                </label>
+           =20
+       =20
+   =20
+                                </div> <!-- /answer-wrapper -->
+                           =20
+                       =20
+                    </div> <!-- /question-wrapper -->
+                </div> <!-- component-inner -->
+            </div><!-- /component -->
+       =20
+            <div role=3D"region" aria-label=3D"Question 8" data-number=3D"8=
+" data-question-id=3D"247183830" class=3D"component  ">
+               =20
+                <div class=3D"component-inner">
+                    <!-- if 1 or not one_per_page %} -->
+                   =20
+                        <div class=3D"question-number" aria-label=3D"Questi=
+on number">8.</div>
+                   =20
+                    <div class=3D"question-wrapper in-quiz ">
+                        <div class=3D"question-header">
+                            <!-- 1 or not one_per_page -->
+                           =20
+                               =20
+                           =20
+                            <div class=3D"question"><p>What will be the out=
+put of following code?</p><p>&nbsp; class Program{</p><p>&nbsp; &nbsp; publ=
+ic static int num1 =3D 1;</p><p>&nbsp; &nbsp; public static void print( ){<=
+/p><p>&nbsp; &nbsp; &nbsp; static int num2 =3D 0;</p><p>&nbsp; &nbsp; &nbsp=
+; System.out.print( num1 +" ");</p><p>&nbsp; &nbsp; &nbsp; num1 ++;</p><p>&=
+nbsp; &nbsp; }</p><p>&nbsp; &nbsp; public static void main( String[] args )=
+{</p><p>&nbsp; &nbsp; &nbsp; Program.print( );</p><p>&nbsp; &nbsp; &nbsp; P=
+rogram.print( );</p><p>&nbsp; &nbsp; &nbsp; Program.print( );</p><p>&nbsp; =
+&nbsp; }</p><p>&nbsp; }</p><p><br></p></div>
+                        </div>
+
+                       =20
+                           =20
+                                <div class=3D"answer-wrapper ">
+                                   =20
+       =20
+           =20
+                <label class=3D"answer hover" for=3D"247183830_0">
+                    <div><input type=3D"radio" name=3D"q-247183830" value=
+=3D"911130868" id=3D"247183830_0"></div>
+                    <div><p>A) 0 1 2</p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183830_1">
+                    <div><input type=3D"radio" name=3D"q-247183830" value=
+=3D"911130908" id=3D"247183830_1"></div>
+                    <div><p>B) 1 2 3</p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183830_2">
+                    <div><input type=3D"radio" name=3D"q-247183830" value=
+=3D"911130948" id=3D"247183830_2"></div>
+                    <div><p>C) 2 3 4</p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183830_3">
+                    <div><input type=3D"radio" name=3D"q-247183830" value=
+=3D"911130988" id=3D"247183830_3"></div>
+                    <div><p>D) Compiler error.</p></div>
+                </label>
+           =20
+       =20
+   =20
+                                </div> <!-- /answer-wrapper -->
+                           =20
+                       =20
+                    </div> <!-- /question-wrapper -->
+                </div> <!-- component-inner -->
+            </div><!-- /component -->
+       =20
+            <div role=3D"region" aria-label=3D"Question 9" data-number=3D"9=
+" data-question-id=3D"247183822" class=3D"component  ">
+               =20
+                <div class=3D"component-inner">
+                    <!-- if 1 or not one_per_page %} -->
+                   =20
+                        <div class=3D"question-number" aria-label=3D"Questi=
+on number">9.</div>
+                   =20
+                    <div class=3D"question-wrapper in-quiz ">
+                        <div class=3D"question-header">
+                            <!-- 1 or not one_per_page -->
+                           =20
+                               =20
+                           =20
+                            <div class=3D"question"><p>Converting a primiti=
+ve type data into its corresponding wrapper class object instance is called=
+?</p></div>
+                        </div>
+
+                       =20
+                           =20
+                                <div class=3D"answer-wrapper ">
+                                   =20
+       =20
+           =20
+                <label class=3D"answer hover" for=3D"247183822_0">
+                    <div><input type=3D"radio" name=3D"q-247183822" value=
+=3D"911130860" id=3D"247183822_0"></div>
+                    <div><p>A) boxing</p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183822_1">
+                    <div><input type=3D"radio" name=3D"q-247183822" value=
+=3D"911130900" id=3D"247183822_1"></div>
+                    <div><p>B) wrapping</p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183822_2">
+                    <div><input type=3D"radio" name=3D"q-247183822" value=
+=3D"911130940" id=3D"247183822_2"></div>
+                    <div><p>C) instantiation</p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183822_3">
+                    <div><input type=3D"radio" name=3D"q-247183822" value=
+=3D"911130980" id=3D"247183822_3"></div>
+                    <div><p>D) autoboxing</p></div>
+                </label>
+           =20
+       =20
+   =20
+                                </div> <!-- /answer-wrapper -->
+                           =20
+                       =20
+                    </div> <!-- /question-wrapper -->
+                </div> <!-- component-inner -->
+            </div><!-- /component -->
+       =20
+            <div role=3D"region" aria-label=3D"Question 10" data-number=3D"=
+10" data-question-id=3D"247183836" class=3D"component  ">
+               =20
+                <div class=3D"component-inner">
+                    <!-- if 1 or not one_per_page %} -->
+                   =20
+                        <div class=3D"question-number" aria-label=3D"Questi=
+on number">10.</div>
+                   =20
+                    <div class=3D"question-wrapper in-quiz ">
+                        <div class=3D"question-header">
+                            <!-- 1 or not one_per_page -->
+                           =20
+                               =20
+                           =20
+                            <div class=3D"question"><p>Which component is r=
+esponsible to optimize bytecode to machine code?</p></div>
+                        </div>
+
+                       =20
+                           =20
+                                <div class=3D"answer-wrapper ">
+                                   =20
+       =20
+           =20
+                <label class=3D"answer hover" for=3D"247183836_0">
+                    <div><input type=3D"radio" name=3D"q-247183836" value=
+=3D"911130874" id=3D"247183836_0"></div>
+                    <div><p>JVM</p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183836_1">
+                    <div><input type=3D"radio" name=3D"q-247183836" value=
+=3D"911130914" id=3D"247183836_1"></div>
+                    <div><p>JDK&nbsp;</p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183836_2">
+                    <div><input type=3D"radio" name=3D"q-247183836" value=
+=3D"911130954" id=3D"247183836_2"></div>
+                    <div><p>JIT</p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183836_3">
+                    <div><input type=3D"radio" name=3D"q-247183836" value=
+=3D"911130994" id=3D"247183836_3"></div>
+                    <div><p>JRE</p></div>
+                </label>
+           =20
+       =20
+   =20
+                                </div> <!-- /answer-wrapper -->
+                           =20
+                       =20
+                    </div> <!-- /question-wrapper -->
+                </div> <!-- component-inner -->
+            </div><!-- /component -->
+       =20
+            <div role=3D"region" aria-label=3D"Question 11" data-number=3D"=
+11" data-question-id=3D"247183818" class=3D"component  ">
+               =20
+                <div class=3D"component-inner">
+                    <!-- if 1 or not one_per_page %} -->
+                   =20
+                        <div class=3D"question-number" aria-label=3D"Questi=
+on number">11.</div>
+                   =20
+                    <div class=3D"question-wrapper in-quiz ">
+                        <div class=3D"question-header">
+                            <!-- 1 or not one_per_page -->
+                           =20
+                               =20
+                           =20
+                            <div class=3D"question"><p>In java, gc() method=
+ is available in which package?</p></div>
+                        </div>
+
+                       =20
+                           =20
+                                <div class=3D"answer-wrapper ">
+                                   =20
+       =20
+           =20
+                <label class=3D"answer hover" for=3D"247183818_0">
+                    <div><input type=3D"radio" name=3D"q-247183818" value=
+=3D"911130856" id=3D"247183818_0"></div>
+                    <div><p>A) java.lang package</p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183818_1">
+                    <div><input type=3D"radio" name=3D"q-247183818" value=
+=3D"911130896" id=3D"247183818_1"></div>
+                    <div><p>B) java.util package</p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183818_2">
+                    <div><input type=3D"radio" name=3D"q-247183818" value=
+=3D"911130936" id=3D"247183818_2"></div>
+                    <div><p>C) java.awt package</p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183818_3">
+                    <div><input type=3D"radio" name=3D"q-247183818" value=
+=3D"911130976" id=3D"247183818_3"></div>
+                    <div><p>D) java.io package</p></div>
+                </label>
+           =20
+       =20
+   =20
+                                </div> <!-- /answer-wrapper -->
+                           =20
+                       =20
+                    </div> <!-- /question-wrapper -->
+                </div> <!-- component-inner -->
+            </div><!-- /component -->
+       =20
+            <div role=3D"region" aria-label=3D"Question 12" data-number=3D"=
+12" data-question-id=3D"247183808" class=3D"component  ">
+               =20
+                <div class=3D"component-inner">
+                    <!-- if 1 or not one_per_page %} -->
+                   =20
+                        <div class=3D"question-number" aria-label=3D"Questi=
+on number">12.</div>
+                   =20
+                    <div class=3D"question-wrapper in-quiz ">
+                        <div class=3D"question-header">
+                            <!-- 1 or not one_per_page -->
+                           =20
+                               =20
+                           =20
+                            <div class=3D"question"><p>Which of the followi=
+ng statements is true about Java package access modifiers?</p></div>
+                        </div>
+
+                       =20
+                           =20
+                                <div class=3D"answer-wrapper ">
+                                   =20
+       =20
+           =20
+                <label class=3D"answer hover" for=3D"247183808_0">
+                    <div><input type=3D"radio" name=3D"q-247183808" value=
+=3D"911130846" id=3D"247183808_0"></div>
+                    <div><p>A) Packages can have public or private access m=
+odifiers </p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183808_1">
+                    <div><input type=3D"radio" name=3D"q-247183808" value=
+=3D"911130886" id=3D"247183808_1"></div>
+                    <div><p>B) Packages can have protected or default acces=
+s modifiers</p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183808_2">
+                    <div><input type=3D"radio" name=3D"q-247183808" value=
+=3D"911130926" id=3D"247183808_2"></div>
+                    <div><p>C) Packages can have public, private, protected=
+, or default access modifiers</p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183808_3">
+                    <div><input type=3D"radio" name=3D"q-247183808" value=
+=3D"911130966" id=3D"247183808_3"></div>
+                    <div><p>D) Packages cannot have access modifiers</p></d=
+iv>
+                </label>
+           =20
+       =20
+   =20
+                                </div> <!-- /answer-wrapper -->
+                           =20
+                       =20
+                    </div> <!-- /question-wrapper -->
+                </div> <!-- component-inner -->
+            </div><!-- /component -->
+       =20
+            <div role=3D"region" aria-label=3D"Question 13" data-number=3D"=
+13" data-question-id=3D"247183828" class=3D"component  ">
+               =20
+                <div class=3D"component-inner">
+                    <!-- if 1 or not one_per_page %} -->
+                   =20
+                        <div class=3D"question-number" aria-label=3D"Questi=
+on number">13.</div>
+                   =20
+                    <div class=3D"question-wrapper in-quiz ">
+                        <div class=3D"question-header">
+                            <!-- 1 or not one_per_page -->
+                           =20
+                               =20
+                           =20
+                            <div class=3D"question"><p><span style=3D"backg=
+round-color: initial; font-size: 1rem;">What will be the output of followin=
+g code?</span></p><p>class variable_scope&nbsp;</p><p>&nbsp; &nbsp; {</p><p=
+>&nbsp; &nbsp; &nbsp; &nbsp; public static void main(String args[])&nbsp;</=
+p><p>&nbsp; &nbsp; &nbsp; &nbsp; {</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=
+ &nbsp; int x;</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; x =3D 5;</p>=
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {</p><p>&nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp; int y =3D 6;</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp; System.out.print(x + " " + y);</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp; }</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; System.out.prin=
+tln(x + " " + y);</p><p>&nbsp; &nbsp; &nbsp; &nbsp; }&nbsp;</p><p>&nbsp; &n=
+bsp; }</p><p><br></p></div>
+                        </div>
+
+                       =20
+                           =20
+                                <div class=3D"answer-wrapper ">
+                                   =20
+       =20
+           =20
+                <label class=3D"answer hover" for=3D"247183828_0">
+                    <div><input type=3D"radio" name=3D"q-247183828" value=
+=3D"911130866" id=3D"247183828_0"></div>
+                    <div><p>A) Compilation error</p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183828_1">
+                    <div><input type=3D"radio" name=3D"q-247183828" value=
+=3D"911130906" id=3D"247183828_1"></div>
+                    <div><p>B) Runtime error</p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183828_2">
+                    <div><input type=3D"radio" name=3D"q-247183828" value=
+=3D"911130946" id=3D"247183828_2"></div>
+                    <div><p>C) 5 6 5 6</p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183828_3">
+                    <div><input type=3D"radio" name=3D"q-247183828" value=
+=3D"911130986" id=3D"247183828_3"></div>
+                    <div><p>D) 5 6 5</p></div>
+                </label>
+           =20
+       =20
+   =20
+                                </div> <!-- /answer-wrapper -->
+                           =20
+                       =20
+                    </div> <!-- /question-wrapper -->
+                </div> <!-- component-inner -->
+            </div><!-- /component -->
+       =20
+            <div role=3D"region" aria-label=3D"Question 14" data-number=3D"=
+14" data-question-id=3D"247183816" class=3D"component  ">
+               =20
+                <div class=3D"component-inner">
+                    <!-- if 1 or not one_per_page %} -->
+                   =20
+                        <div class=3D"question-number" aria-label=3D"Questi=
+on number">14.</div>
+                   =20
+                    <div class=3D"question-wrapper in-quiz ">
+                        <div class=3D"question-header">
+                            <!-- 1 or not one_per_page -->
+                           =20
+                               =20
+                           =20
+                            <div class=3D"question"><p>What is ArrayStoreEx=
+ception in Java?</p></div>
+                        </div>
+
+                       =20
+                           =20
+                                <div class=3D"answer-wrapper ">
+                                   =20
+       =20
+           =20
+                <label class=3D"answer hover" for=3D"247183816_0">
+                    <div><input type=3D"radio" name=3D"q-247183816" value=
+=3D"911130854" id=3D"247183816_0"></div>
+                    <div><p>A) An exception that occurs when an array is no=
+t initialized</p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183816_1">
+                    <div><input type=3D"radio" name=3D"q-247183816" value=
+=3D"911130894" id=3D"247183816_1"></div>
+                    <div><p>B) An exception that occurs when an index is ou=
+t of bounds in an array.</p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183816_2">
+                    <div><input type=3D"radio" name=3D"q-247183816" value=
+=3D"911130934" id=3D"247183816_2"></div>
+                    <div><p>C) An exception that occurs when trying to stor=
+e an object of an incompatible type in an array.</p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183816_3">
+                    <div><input type=3D"radio" name=3D"q-247183816" value=
+=3D"911130974" id=3D"247183816_3"></div>
+                    <div><p>D) An exception that occurs when trying to acce=
+ss an array that has been deleteD)</p></div>
+                </label>
+           =20
+       =20
+   =20
+                                </div> <!-- /answer-wrapper -->
+                           =20
+                       =20
+                    </div> <!-- /question-wrapper -->
+                </div> <!-- component-inner -->
+            </div><!-- /component -->
+       =20
+            <div role=3D"region" aria-label=3D"Question 15" data-number=3D"=
+15" data-question-id=3D"247183812" class=3D"component  ">
+               =20
+                <div class=3D"component-inner">
+                    <!-- if 1 or not one_per_page %} -->
+                   =20
+                        <div class=3D"question-number" aria-label=3D"Questi=
+on number">15.</div>
+                   =20
+                    <div class=3D"question-wrapper in-quiz ">
+                        <div class=3D"question-header">
+                            <!-- 1 or not one_per_page -->
+                           =20
+                               =20
+                           =20
+                            <div class=3D"question"><p>Process of convertin=
+g reference of super class into reference of sub class is called as _______=
+?</p></div>
+                        </div>
+
+                       =20
+                           =20
+                                <div class=3D"answer-wrapper ">
+                                   =20
+       =20
+           =20
+                <label class=3D"answer hover" for=3D"247183812_0">
+                    <div><input type=3D"radio" name=3D"q-247183812" value=
+=3D"911130850" id=3D"247183812_0"></div>
+                    <div><p>A) Upcasting</p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183812_1">
+                    <div><input type=3D"radio" name=3D"q-247183812" value=
+=3D"911130890" id=3D"247183812_1"></div>
+                    <div><p>B) Downcasting</p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183812_2">
+                    <div><input type=3D"radio" name=3D"q-247183812" value=
+=3D"911130930" id=3D"247183812_2"></div>
+                    <div><p>C) Narrowing</p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183812_3">
+                    <div><input type=3D"radio" name=3D"q-247183812" value=
+=3D"911130970" id=3D"247183812_3"></div>
+                    <div><p>D) Widening</p></div>
+                </label>
+           =20
+       =20
+   =20
+                                </div> <!-- /answer-wrapper -->
+                           =20
+                       =20
+                    </div> <!-- /question-wrapper -->
+                </div> <!-- component-inner -->
+            </div><!-- /component -->
+       =20
+            <div role=3D"region" aria-label=3D"Question 16" data-number=3D"=
+16" data-question-id=3D"247183832" class=3D"component  ">
+               =20
+                <div class=3D"component-inner">
+                    <!-- if 1 or not one_per_page %} -->
+                   =20
+                        <div class=3D"question-number" aria-label=3D"Questi=
+on number">16.</div>
+                   =20
+                    <div class=3D"question-wrapper in-quiz ">
+                        <div class=3D"question-header">
+                            <!-- 1 or not one_per_page -->
+                           =20
+                               =20
+                           =20
+                            <div class=3D"question"><ol><li><p>What will be=
+ the output of given code?</p></li><li><p>class Output&nbsp;</p></li><li><p=
+>&nbsp; &nbsp; {</p></li><li><p>&nbsp; &nbsp; &nbsp; &nbsp; public static v=
+oid main(String args[])</p></li><li><p>&nbsp; &nbsp; &nbsp; &nbsp; {</p></l=
+i><li><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; int arr[] =3D {1, 2, 3, =
+4, 5};</p></li><li><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; for ( int i=
+ =3D 0; i &lt; arr.length - 2; ++i)</p></li><li><p>&nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; System.out.println(arr[i] + " ");</p></li><=
+li><p>&nbsp; &nbsp; &nbsp; &nbsp; }&nbsp;</p></li><li><p>&nbsp; &nbsp; }</p=
+></li></ol></div>
+                        </div>
+
+                       =20
+                           =20
+                                <div class=3D"answer-wrapper ">
+                                   =20
+       =20
+           =20
+                <label class=3D"answer hover" for=3D"247183832_0">
+                    <div><input type=3D"radio" name=3D"q-247183832" value=
+=3D"911130870" id=3D"247183832_0"></div>
+                    <div><p>a) 1 2 3 4 5</p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183832_1">
+                    <div><input type=3D"radio" name=3D"q-247183832" value=
+=3D"911130910" id=3D"247183832_1"></div>
+                    <div><p>b) 1 2 3 4</p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183832_2">
+                    <div><input type=3D"radio" name=3D"q-247183832" value=
+=3D"911130950" id=3D"247183832_2"></div>
+                    <div><p>c) 1 2</p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183832_3">
+                    <div><input type=3D"radio" name=3D"q-247183832" value=
+=3D"911130990" id=3D"247183832_3"></div>
+                    <div><p>d) 1 2 3</p></div>
+                </label>
+           =20
+       =20
+   =20
+                                </div> <!-- /answer-wrapper -->
+                           =20
+                       =20
+                    </div> <!-- /question-wrapper -->
+                </div> <!-- component-inner -->
+            </div><!-- /component -->
+       =20
+            <div role=3D"region" aria-label=3D"Question 17" data-number=3D"=
+17" data-question-id=3D"247183814" class=3D"component  ">
+               =20
+                <div class=3D"component-inner">
+                    <!-- if 1 or not one_per_page %} -->
+                   =20
+                        <div class=3D"question-number" aria-label=3D"Questi=
+on number">17.</div>
+                   =20
+                    <div class=3D"question-wrapper in-quiz ">
+                        <div class=3D"question-header">
+                            <!-- 1 or not one_per_page -->
+                           =20
+                               =20
+                           =20
+                            <div class=3D"question"><p>What is a static ini=
+tializer block in Java?</p></div>
+                        </div>
+
+                       =20
+                           =20
+                                <div class=3D"answer-wrapper ">
+                                   =20
+       =20
+           =20
+                <label class=3D"answer hover" for=3D"247183814_0">
+                    <div><input type=3D"radio" name=3D"q-247183814" value=
+=3D"911130852" id=3D"247183814_0"></div>
+                    <div><p>A) A block of code that is executed when an obj=
+ect is createD)</p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183814_1">
+                    <div><input type=3D"radio" name=3D"q-247183814" value=
+=3D"911130892" id=3D"247183814_1"></div>
+                    <div><p>B) A block of code that is executed when a clas=
+s is loaded into memory.</p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183814_2">
+                    <div><input type=3D"radio" name=3D"q-247183814" value=
+=3D"911130932" id=3D"247183814_2"></div>
+                    <div><p>C) A block of code that is executed when a meth=
+od is calleD)</p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183814_3">
+                    <div><input type=3D"radio" name=3D"q-247183814" value=
+=3D"911130972" id=3D"247183814_3"></div>
+                    <div><p>D) A block of code that is executed when a vari=
+able is initializeD)</p></div>
+                </label>
+           =20
+       =20
+   =20
+                                </div> <!-- /answer-wrapper -->
+                           =20
+                       =20
+                    </div> <!-- /question-wrapper -->
+                </div> <!-- component-inner -->
+            </div><!-- /component -->
+       =20
+            <div role=3D"region" aria-label=3D"Question 18" data-number=3D"=
+18" data-question-id=3D"247183820" class=3D"component  ">
+               =20
+                <div class=3D"component-inner">
+                    <!-- if 1 or not one_per_page %} -->
+                   =20
+                        <div class=3D"question-number" aria-label=3D"Questi=
+on number">18.</div>
+                   =20
+                    <div class=3D"question-wrapper in-quiz ">
+                        <div class=3D"question-header">
+                            <!-- 1 or not one_per_page -->
+                           =20
+                               =20
+                           =20
+                            <div class=3D"question"><p>If constructor argum=
+ents are passed to objects of array then ____________ if the constructors a=
+re overloaded.</p></div>
+                        </div>
+
+                       =20
+                           =20
+                                <div class=3D"answer-wrapper ">
+                                   =20
+       =20
+           =20
+                <label class=3D"answer hover" for=3D"247183820_0">
+                    <div><input type=3D"radio" name=3D"q-247183820" value=
+=3D"911130858" id=3D"247183820_0"></div>
+                    <div><p>A) It is mandatory to pass same number of argum=
+ents to all the objects</p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183820_1">
+                    <div><input type=3D"radio" name=3D"q-247183820" value=
+=3D"911130898" id=3D"247183820_1"></div>
+                    <div><p>B) It is mandatory to pass same type of argumen=
+ts to all the objects</p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183820_2">
+                    <div><input type=3D"radio" name=3D"q-247183820" value=
+=3D"911130938" id=3D"247183820_2"></div>
+                    <div><p>C) It is not mandatory to call same constructor=
+ for all the objects</p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183820_3">
+                    <div><input type=3D"radio" name=3D"q-247183820" value=
+=3D"911130978" id=3D"247183820_3"></div>
+                    <div><p>D) It is mandatory to call same constructor for=
+ all the constructors</p></div>
+                </label>
+           =20
+       =20
+   =20
+                                </div> <!-- /answer-wrapper -->
+                           =20
+                       =20
+                    </div> <!-- /question-wrapper -->
+                </div> <!-- component-inner -->
+            </div><!-- /component -->
+       =20
+            <div role=3D"region" aria-label=3D"Question 19" data-number=3D"=
+19" data-question-id=3D"247183802" class=3D"component  ">
+               =20
+                <div class=3D"component-inner">
+                    <!-- if 1 or not one_per_page %} -->
+                   =20
+                        <div class=3D"question-number" aria-label=3D"Questi=
+on number">19.</div>
+                   =20
+                    <div class=3D"question-wrapper in-quiz ">
+                        <div class=3D"question-header">
+                            <!-- 1 or not one_per_page -->
+                           =20
+                               =20
+                           =20
+                            <div class=3D"question"><p>Choose incorrect sta=
+tement about constructor.</p></div>
+                        </div>
+
+                       =20
+                           =20
+                                <div class=3D"answer-wrapper ">
+                                   =20
+       =20
+           =20
+                <label class=3D"answer hover" for=3D"247183802_0">
+                    <div><input type=3D"radio" name=3D"q-247183802" value=
+=3D"911130840" id=3D"247183802_0"></div>
+                    <div><p>A) We can call constructor from another constru=
+ctor explicitly.</p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183802_1">
+                    <div><input type=3D"radio" name=3D"q-247183802" value=
+=3D"911130880" id=3D"247183802_1"></div>
+                    <div><p>B) We can call constructor on instance explicit=
+ly.</p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183802_2">
+                    <div><input type=3D"radio" name=3D"q-247183802" value=
+=3D"911130920" id=3D"247183802_2"></div>
+                    <div><p>C) We can declare constructor private as well a=
+s protecteD)</p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183802_3">
+                    <div><input type=3D"radio" name=3D"q-247183802" value=
+=3D"911130960" id=3D"247183802_3"></div>
+                    <div><p>D) We can overload constructor.</p></div>
+                </label>
+           =20
+       =20
+   =20
+                                </div> <!-- /answer-wrapper -->
+                           =20
+                       =20
+                    </div> <!-- /question-wrapper -->
+                </div> <!-- component-inner -->
+            </div><!-- /component -->
+       =20
+            <div role=3D"region" aria-label=3D"Question 20" data-number=3D"=
+20" data-question-id=3D"247183800" class=3D"component  ">
+               =20
+                <div class=3D"component-inner">
+                    <!-- if 1 or not one_per_page %} -->
+                   =20
+                        <div class=3D"question-number" aria-label=3D"Questi=
+on number">20.</div>
+                   =20
+                    <div class=3D"question-wrapper in-quiz ">
+                        <div class=3D"question-header">
+                            <!-- 1 or not one_per_page -->
+                           =20
+                               =20
+                           =20
+                            <div class=3D"question"><p>Which one of the fol=
+lowing is not a native method?</p></div>
+                        </div>
+
+                       =20
+                           =20
+                                <div class=3D"answer-wrapper ">
+                                   =20
+       =20
+           =20
+                <label class=3D"answer hover" for=3D"247183800_0">
+                    <div><input type=3D"radio" name=3D"q-247183800" value=
+=3D"911130838" id=3D"247183800_0"></div>
+                    <div><p>A) protected void finalize()throws Throwable</p=
+></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183800_1">
+                    <div><input type=3D"radio" name=3D"q-247183800" value=
+=3D"911130878" id=3D"247183800_1"></div>
+                    <div><p>B) public int hashCode()</p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183800_2">
+                    <div><input type=3D"radio" name=3D"q-247183800" value=
+=3D"911130918" id=3D"247183800_2"></div>
+                    <div><p>C) protected Object clone( )throws CloneNotSupp=
+ortedException</p></div>
+                </label>
+           =20
+                <label class=3D"answer hover" for=3D"247183800_3">
+                    <div><input type=3D"radio" name=3D"q-247183800" value=
+=3D"911130958" id=3D"247183800_3"></div>
+                    <div><p>D) public final void wait( long timeout )throws=
+ InterruptedException</p></div>
+                </label>
+           =20
+       =20
+   =20
+                                </div> <!-- /answer-wrapper -->
+                           =20
+                       =20
+                    </div> <!-- /question-wrapper -->
+                </div> <!-- component-inner -->
+            </div><!-- /component -->
+       =20
+        <div class=3D"buttons" style=3D"margin-bottom:75px">
+            <div style=3D"display:none"><input type=3D"checkbox" name=3D"fo=
+rce_submit" id=3D"id_force_submit"></div>
+            <!-- prevent the form submitting on enter -->
+
+            <button style=3D"display:none" type=3D"submit" id=3D"fake-submi=
+t" aria-hidden=3D"true"></button>
+
+            <input type=3D"submit" value=3D"Submit" name=3D"submit-button" =
+id=3D"the-submit-button">
+        </div>
+        <!--<a href=3D"/q/13934592/student/logout" onclick=3D"return confir=
+m('Click ok if you really want to leave the test. Your answers will NOT be =
+saved.')">Logout</a>-->
+    </form>
+
+
+</div>
+   =20
+
+
+
+
+</body></html>
+------MultipartBoundary--KaM4gsnOlXKl4TXu3q9Zr2vlsXqMgKabEOeRmo1dwp----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-abf0d379-2c44-4b22-82d4-fa7a5c6a0276@mhtml.blink
+
+@charset "utf-8";
+
+body { margin: 20px auto; font-family: Arial, Verdana, sans-serif; color: r=
+gb(68, 68, 68); background-color: rgb(242, 242, 243); max-width: 600px; }
+
+@media only screen {
+  body { max-width: 600px; }
+  .quizcss .hover:hover, .quizcss .matching-left > div:hover, .quizcss .mat=
+ching-right > div:hover, .quizcss .multiple-response-answers > div:hover, .=
+quizcss .matching-response > div:hover, .quizcss .file-adder-over, .quizcss=
+ .media-field-data:hover { background-color: rgb(242, 242, 243); }
+  body, .quizcss .comment-readonly, .quizcss .comment-readonly textarea { b=
+ackground-color: rgb(242, 242, 243); color: rgb(0, 0, 0); }
+  .quizcss #next-left svg, .quizcss #next-right svg { color: rgb(0, 0, 0); =
+}
+  .quizcss .comment-box::before { color: rgb(0, 0, 0); }
+  .quizcss .comment-box { box-shadow: rgb(0, 0, 0) 0px 0px 2px 0px; }
+  .quizcss .comment-readonly textarea { border: none; outline: none; }
+  #login a { color: rgb(0, 0, 0); }
+  .quizcss a { color: rgb(0, 0, 0); font-weight: bold; text-decoration: und=
+erline; }
+  .quizcss a:hover { text-decoration: none; }
+  .quizcss #tabs a { background-color: rgb(242, 242, 243); color: rgb(0, 0,=
+ 0); }
+  .quizcss .component, .quizcss #login, .quizcss #tabs a.active { backgroun=
+d-color: rgb(255, 255, 255); color: rgb(0, 0, 0); }
+  .quizcss .file-adder { border-color: rgb(0, 0, 0); }
+  .quizcss .component a { color: rgb(0, 0, 0); font-weight: bold; }
+  .quizcss .warning, .quizcss .the-explanation { background-color: rgb(255,=
+ 255, 175); color: rgb(0, 0, 0); }
+  .quizcss .component-flash { background-color: rgb(255, 255, 175); }
+  .quizcss .progress-left { background-color: rgb(0, 0, 0); }
+  .quizcss .progress-active { background-color: rgb(0, 0, 0); opacity: 0.25=
+; }
+}
+------MultipartBoundary--KaM4gsnOlXKl4TXu3q9Zr2vlsXqMgKabEOeRmo1dwp----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://testmozusercontent.com/static/1717350659/css/reboot.css
+
+@charset "utf-8";
+
+::after, *, ::before { box-sizing: border-box; }
+
+html { font-family: sans-serif; line-height: 1.15; text-size-adjust: 100%; =
+-webkit-tap-highlight-color: transparent; }
+
+article, aside, dialog, figcaption, figure, footer, header, hgroup, main, n=
+av, section { display: block; }
+
+body { margin: 0px; font-family: -apple-system, BlinkMacSystemFont, "segoe =
+ui", Roboto, "helvetica neue", Arial, sans-serif, "apple color emoji", "seg=
+oe ui emoji", "segoe ui symbol"; font-size: 1rem; font-weight: 400; line-he=
+ight: 1.5; color: rgb(33, 37, 41); text-align: left; background-color: rgb(=
+255, 255, 255); }
+
+[tabindex=3D"-1"]:focus { outline: 0px !important; }
+
+hr { box-sizing: content-box; height: 0px; overflow: visible; }
+
+h1, h2, h3, h4, h5, h6 { margin-top: 0px; margin-bottom: 0.5rem; }
+
+p { margin-top: 0px; margin-bottom: 1rem; }
+
+abbr[data-original-title], abbr[title] { text-decoration: underline dotted;=
+ cursor: help; border-bottom: 0px; }
+
+address { margin-bottom: 1rem; font-style: normal; line-height: inherit; }
+
+dl, ol, ul { margin-top: 0px; margin-bottom: 1rem; }
+
+ol ol, ol ul, ul ol, ul ul { margin-bottom: 0px; }
+
+dt { font-weight: 700; }
+
+dd { margin-bottom: 0.5rem; margin-left: 0px; }
+
+blockquote { margin: 0px 0px 1rem; }
+
+dfn { font-style: italic; }
+
+b, strong { font-weight: bolder; }
+
+small { font-size: 80%; }
+
+sub, sup { position: relative; font-size: 75%; line-height: 0; vertical-ali=
+gn: baseline; }
+
+sub { bottom: -0.25em; }
+
+sup { top: -0.5em; }
+
+a { color: rgb(0, 123, 255); text-decoration: none; background-color: initi=
+al; }
+
+a:hover { color: rgb(0, 86, 179); text-decoration: underline; }
+
+a:not([href]):not([tabindex]) { color: inherit; text-decoration: none; }
+
+a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover { =
+color: inherit; text-decoration: none; }
+
+a:not([href]):not([tabindex]):focus { outline: 0px; }
+
+code, kbd, pre, samp { font-family: monospace, monospace; font-size: 1em; }
+
+pre { margin-top: 0px; margin-bottom: 1rem; overflow: auto; }
+
+figure { margin: 0px 0px 1rem; }
+
+img { vertical-align: middle; border-style: none; }
+
+svg:not(:root) { overflow: hidden; }
+
+table { border-collapse: collapse; }
+
+caption { padding-top: 0.75rem; padding-bottom: 0.75rem; color: rgb(108, 11=
+7, 125); text-align: left; caption-side: bottom; }
+
+th { text-align: inherit; }
+
+label { display: inline-block; margin-bottom: 0.5rem; }
+
+button { border-radius: 0px; }
+
+button:focus { outline: -webkit-focus-ring-color auto 5px; }
+
+button, input, optgroup, select, textarea { margin: 0px; font-family: inher=
+it; font-size: inherit; line-height: inherit; }
+
+button, input { overflow: visible; }
+
+button, select { text-transform: none; }
+
+[type=3D"reset"], [type=3D"submit"], button, html [type=3D"button"] { appea=
+rance: button; }
+
+input[type=3D"checkbox"], input[type=3D"radio"] { box-sizing: border-box; p=
+adding: 0px; }
+
+input[type=3D"date"], input[type=3D"datetime-local"], input[type=3D"month"]=
+, input[type=3D"time"] { appearance: listbox; }
+
+textarea { overflow: auto; resize: vertical; }
+
+fieldset { min-width: 0px; padding: 0px; margin: 0px; border: 0px; }
+
+legend { display: block; width: 100%; max-width: 100%; padding: 0px; margin=
+-bottom: 0.5rem; font-size: 1.5rem; line-height: inherit; color: inherit; w=
+hite-space: normal; }
+
+progress { vertical-align: baseline; }
+
+[type=3D"number"]::-webkit-inner-spin-button, [type=3D"number"]::-webkit-ou=
+ter-spin-button { height: auto; }
+
+[type=3D"search"] { outline-offset: -2px; appearance: none; }
+
+[type=3D"search"]::-webkit-search-cancel-button, [type=3D"search"]::-webkit=
+-search-decoration { appearance: none; }
+
+::-webkit-file-upload-button { font: inherit; appearance: button; }
+
+output { display: inline-block; }
+
+summary { display: list-item; cursor: pointer; }
+
+template { display: none; }
+
+[hidden] { display: none !important; }
+------MultipartBoundary--KaM4gsnOlXKl4TXu3q9Zr2vlsXqMgKabEOeRmo1dwp----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://testmozusercontent.com/static/1717350659/css/quiz.css
+
+@charset "utf-8";
+
+.quizcss * { box-sizing: border-box; }
+
+.quizcss .response-wrapper { margin-top: 16px; }
+
+.quizcss form label { margin-top: 0px; }
+
+.quizcss #title { font-size: 18px; }
+
+.quizcss #login-admin { display: none; }
+
+.quizcss #login label { margin-bottom: 2px; }
+
+.quizcss #login-student input[type=3D"text"], .quizcss #login-student input=
+[type=3D"password"] { margin-bottom: 20px; }
+
+.quizcss .component { box-shadow: rgb(204, 204, 204) 0px 0px 2px; backgroun=
+d-color: rgb(255, 255, 255); margin: 20px auto; word-break: break-word; }
+
+.quizcss .component p { }
+
+.quizcss .component input[type=3D"radio"], .quizcss .component input[type=
+=3D"checkbox"] { margin: 0px 3px; }
+
+.quizcss .component label { margin-bottom: 0px; font-weight: 400; }
+
+.quizcss .component label.answer { margin-bottom: 5px; }
+
+.quizcss .question-wrapper, .quizcss .answer textarea, .quizcss .answer inp=
+ut[type=3D"text"], .quizcss .answer input[type=3D"number"], .quizcss .compo=
+nent, .quizcss .text-block { line-height: 1.8; font-size: 16px; font-family=
+: arial, verdana, sans-serif; }
+
+.quizcss .text-block { margin: 20px auto; }
+
+.quizcss .component-inner { padding: 10px; display: flex; }
+
+.quizcss .question > p:first-child, .quizcss .answer p:first-child, .quizcs=
+s .answer.word-counter-field { display: block; }
+
+.quizcss .word-counter { font-size: 12px; text-align: right; }
+
+.quizcss .word-count-info { position: absolute; margin-left: -15px; }
+
+.quizcss .suck p:first-child, .quizcss .matching-response > div p:first-chi=
+ld, .quizcss .matching-choice p:first-child, .quizcss .matching-subquestion=
+ p:first-child, .quizcss .response p:first-child, .quizcss .response .multi=
+ple-response-answers > div p:first-child { margin-top: 0px; }
+
+.quizcss .question > p:last-child, .quizcss .answer p:last-child, .quizcss =
+.suck p:last-child, .quizcss .the-explanation p:last-child, .quizcss .match=
+ing-choice p:last-child, .quizcss .matching-response > div p:last-child, .q=
+uizcss .matching-subquestion p:last-child, .quizcss .response .multiple-res=
+ponse-answers > div p:last-child, .quizcss .response p:last-child { margin-=
+bottom: 0px; }
+
+.quizcss .question-wrapper { flex: 1 1 0%; position: relative; }
+
+.quizcss .question-header, .quizcss .answer { break-inside: avoid; }
+
+.quizcss .question-points { float: right; margin-left: 5px; margin-bottom: =
+5px; }
+
+.quizcss .question { flex: 1 1 0%; }
+
+.quizcss .question-number { min-width: 35px; padding-right: 5px; font-weigh=
+t: 700; }
+
+.quizcss .question-points { padding-left: 5px; white-space: nowrap; font-si=
+ze: 11px; }
+
+.quizcss .response, .quizcss .answer-wrapper { margin-top: 10px; }
+
+.quizcss .one-per-page .answer-wrapper { }
+
+.quizcss .one-per-page-component .component-inner { padding: 20px; }
+
+.quizcss .one-per-page .answer-wrapper .matching { }
+
+.quizcss .answer { margin-bottom: 10px; display: flex; }
+
+.quizcss .hover:hover, .quizcss .matching-left > div:hover, .quizcss .match=
+ing-right > div:hover, .quizcss .multiple-response-answers > div:hover, .qu=
+izcss .matching-response > div:hover, .quizcss .file-adder-over, .quizcss .=
+media-field-data:hover { background-color: rgb(242, 242, 243); }
+
+.quizcss .fill-in { align-items: center; }
+
+.quizcss .drop-down { align-items: center; }
+
+.quizcss .answer input[type=3D"text"], .quizcss .answer input[type=3D"numbe=
+r"] { flex: 1 1 0%; width: 100%; display: block; }
+
+.quizcss .answer textarea { flex: 1 1 0%; min-height: 75px; display: block;=
+ width: 100%; }
+
+.quizcss .buttons { display: flex; justify-content: center; margin-top: 20p=
+x; margin-bottom: 20px; }
+
+.quizcss .buttons > * { margin-left: 10px; margin-right: 10px; }
+
+.quizcss .error { background-color: red; color: rgb(255, 255, 255); padding=
+: 10px; font-weight: 700; }
+
+.quizcss .error a:link, .quizcss .error a:visited, .quizcss .error a:hover =
+{ color: rgb(255, 255, 255); }
+
+.quizcss .warning { background-color: rgb(255, 255, 175); padding: 10px; co=
+lor: rgb(0, 0, 0); margin-bottom: 10px; font-size: 12px; }
+
+.quizcss .warning p:last-child { margin-bottom: 0px; }
+
+.quizcss .has-error { }
+
+.quizcss .correct img, .quizcss .incorrect img, .quizcss .pending img, .qui=
+zcss .answered img, .quizcss .partially-correct img { width: 16px; vertical=
+-align: top; }
+
+.quizcss .correct, .quizcss .incorrect, .quizcss .partially-correct { font-=
+weight: 700; margin-left: 2px; }
+
+.quizcss .the-explanation { background-color: rgb(255, 255, 175); padding: =
+10px; margin-left: -10px; margin-top: 10px; clear: both; }
+
+.quizcss .in-quiz .the-explanation { margin-left: 0px; }
+
+.quizcss .the-explanation > p.label { margin-top: 0px; }
+
+.quizcss .indicator img { vertical-align: text-top; margin-right: 3px; }
+
+.quizcss .correct { color: rgb(56, 124, 51); }
+
+.quizcss .incorrect, .quizcss .red { color: rgb(228, 34, 36); }
+
+.quizcss .partially-correct { color: rgb(249, 151, 37); }
+
+.quizcss .pending, .quizcss .blank { font-weight: 700; color: rgb(0, 0, 0);=
+ }
+
+.quizcss .indicator { white-space: nowrap; margin-top: 0px; display: inline=
+-block; margin-right: 5px; }
+
+.quizcss .label { font-weight: 700; margin-bottom: 0px; line-height: 1; cle=
+ar: both; margin-top: 1rem; }
+
+.quizcss .score-line { font-weight: 700; line-height: 1.5; }
+
+.quizcss .light { font-weight: 400; }
+
+.quizcss .score-line .light { }
+
+.quizcss .admin-input { width: 35px; display: inline; text-align: right; }
+
+.quizcss .question-points-highlight { background-color: rgb(255, 235, 59); =
+align-self: flex-start; padding: 5px; }
+
+.quizcss .quiz .errorlist { margin: 0px; padding: 0px; list-style-type: non=
+e; color: rgb(255, 255, 255); }
+
+.quizcss #content, .quizcss .quiz-header { padding: 0px 10px; }
+
+.quizcss .aside { font-size: 14px; background-color: rgb(255, 255, 175); pa=
+dding: 10px; }
+
+.quizcss #name { float: right; padding-left: 10px; font-weight: 700; margin=
+-bottom: 0px; text-align: right; line-height: normal; }
+
+.quizcss #name .lighter { font-weight: 400; font-size: 12px; }
+
+.quizcss img, .quizcss iframe { max-width: 100%; }
+
+.quizcss #tabs { display: flex; justify-content: center; margin-top: 30px; =
+}
+
+.quizcss #tabs a { display: block; padding: 5px; margin-left: 10px; margin-=
+right: 10px; font-size: 11px; color: rgb(0, 0, 0); text-decoration: none; b=
+ackground-color: rgb(207, 207, 207); border-top: 1px solid rgb(204, 204, 20=
+4); border-left: 1px solid rgb(204, 204, 204); border-right: 1px solid rgb(=
+204, 204, 204); font-weight: 700; }
+
+.quizcss #tabs a.active { background-color: rgb(255, 255, 255); }
+
+.quizcss #login { background-color: rgb(255, 255, 255); max-width: 300px; m=
+argin: auto; text-align: center; padding: 10px; box-shadow: rgb(204, 204, 2=
+04) 0px 0px 2px; }
+
+.quizcss #login h1 { margin-top: 5px; }
+
+.quizcss #login input[type=3D"text"], .quizcss #login input[type=3D"passwor=
+d"] { width: 100%; text-align: center; }
+
+.quizcss .mathy { border: none; }
+
+.quizcss .mathy::before { content: ""; padding: 0px; }
+
+.quizcss #timer { position: fixed; bottom: 0px; padding: 5px; background-co=
+lor: rgb(56, 124, 51); margin-left: 50%; left: 0px; transform: translateX(-=
+50%); border-top-left-radius: 5px; border-top-right-radius: 5px; color: rgb=
+(255, 255, 255); cursor: pointer; text-align: center; display: none; z-inde=
+x: 10; }
+
+.quizcss .timer-hover { display: none; }
+
+.quizcss #timer:hover .timer-hover { display: inline; }
+
+.quizcss #timer.one-minute-warning { background-color: rgb(255, 136, 0); }
+
+.quizcss #timer.ten-second-warning { background-color: rgb(228, 34, 36); an=
+imation: 1s linear 0s infinite normal none running flash; }
+
+.quizcss #timer.one-minute-warning .timer-seconds, .quizcss #timer.ten-seco=
+nd-warning .timer-seconds { display: inline; }
+
+@-webkit-keyframes flash {=20
+  0% { opacity: 1; }
+  50% { opacity: 0.1; }
+  100% { opacity: 1; }
+}
+
+@keyframes flash {=20
+  0% { opacity: 1; }
+  50% { opacity: 0.1; }
+  100% { opacity: 1; }
+}
+
+.quizcss #timer-notice { display: none; font-size: 12px; }
+
+.quizcss #timer-hide { font-size: 12px; }
+
+.quizcss .multiple-response-answers > div { margin-bottom: 5px; }
+
+.quizcss .answer-check { position: relative; }
+
+.quizcss .answer-check span { position: absolute; left: -20px; }
+
+.quizcss .one-per-page .answer-check span { left: -18px; }
+
+.quizcss .answer-check img { padding-top: 3px; }
+
+.quizcss .matching { display: flex; margin: 0px -10px; }
+
+.quizcss .matching > div, .quizcss .matching > ol { margin: 0px 10px; flex:=
+ 1 1 0%; }
+
+.quizcss .matching-left > div { display: flex; margin-bottom: 5px; }
+
+.quizcss .matching-right > li { margin-bottom: 5px; font-weight: 700; }
+
+.quizcss .matching-right > li > div { font-weight: 400; }
+
+.quizcss .matching-number { margin-right: 5px; font-weight: 700; white-spac=
+e: nowrap; }
+
+.quizcss select { max-width: 100px; }
+
+.quizcss .drop-down-wrapper { display: inline-block; max-width: 100%; }
+
+.quizcss .drop-down select { font-size: 16px; padding: 3px; width: 100%; ma=
+x-width: none; }
+
+.quizcss .drop-down.answer label { }
+
+.quizcss .matching-selector { margin-right: 5px; }
+
+.quizcss .matching-subquestion { flex: 1 1 0%; }
+
+.quizcss .matching-response > div { display: flex; margin: 0px -5px; }
+
+.quizcss .matching-response > div > div { flex: 1 1 0%; margin: 0px 5px 5px=
+; }
+
+.quizcss .matching-selector { font-weight: 700; max-width: 50%; }
+
+.quizcss .matching-selector > span img { margin-top: 4px; }
+
+.quizcss .progress-bar { font-size: 14px; margin-top: 20px; margin-bottom: =
+-15px; display: flex; }
+
+.quizcss .progress-bar-selector { display: flex; align-items: stretch; marg=
+in-right: 10px; }
+
+.quizcss .progress-bar-bar { position: relative; background-color: initial;=
+ flex: 1 1 0%; align-items: center; align-self: center; display: flex; }
+
+.quizcss .progress-active { }
+
+.quizcss .progress-bar-bar-items { display: flex; flex: 1 1 0%; box-shadow:=
+ rgb(204, 204, 204) 0px 0px 2px; height: 7px; }
+
+.quizcss .progress-bar-bar-items > div { }
+
+.quizcss .progress-bar-bar-text { font-size: 11px; margin-left: 10px; }
+
+.quizcss .progress-bar-bar > div { }
+
+.quizcss .progress-bar-left { flex: 1 1 0%; }
+
+.quizcss #jump-to { padding: 3px; font-size: 16px; }
+
+.quizcss .leave-comment { width: 20px; vertical-align: top; margin-left: 21=
+px; margin-top: -16px; background-image: url("../img/commenting-o.svg"); di=
+splay: inline-block; height: 20px; background-size: contain; position: abso=
+lute; }
+
+.quizcss .leave-comment:hover { background-image: url("../img/commenting.sv=
+g"); cursor: pointer; }
+
+.quizcss .comment-area.comment-area-has-comment .leave-comment { background=
+-image: url("../img/commenting.svg"); visibility: hidden; }
+
+.quizcss .comment-area { position: absolute; display: inline-block; white-s=
+pace: normal; right: 0px; top: 20px; }
+
+.quizcss .comment-box { position: absolute; left: calc(100% + 25px); top: -=
+23px; display: none; width: 300px; background-color: initial; padding: 3px;=
+ box-shadow: rgb(204, 204, 204) 0px 0px 2px; }
+
+.quizcss .comment-area.comment-area-has-comment .comment-box { display: blo=
+ck; }
+
+.quizcss .comment-box-active { z-index: 999999; background-color: rgb(255, =
+236, 61); }
+
+.quizcss .comment-box::before { content: "=E2=97=80"; position: absolute; l=
+eft: -16px; font-size: 21px; color: rgb(0, 0, 0); top: -2px; }
+
+.quizcss .comment-box textarea { height: 100px; width: 100%; border-top: no=
+ne; border-right: none; border-left: none; border-image: initial; border-bo=
+ttom: 1px solid rgb(204, 204, 204); }
+
+.quizcss .comment-box p { margin-top: 0px; opacity: 0.7; margin-bottom: 0px=
+; padding: 5px; font-size: 11px; }
+
+.quizcss .comment-textarea { max-height: 100px; overflow: auto; white-space=
+: pre-line; }
+
+.quizcss .screen-hide { display: none; }
+
+#next-left, #next-right { border: none; background: 0px 0px; display: inlin=
+e-flex; padding: 0px 5px; align-items: center; width: 28px; height: 28px; j=
+ustify-content: center; }
+
+#next-left svg, #next-right svg { width: 80%; height: 80%; }
+
+#next-left { }
+
+#next-right { }
+
+.quizcss #student-messages { position: fixed; top: 0px; left: 0px; right: 0=
+px; text-align: center; z-index: 1000; }
+
+.quizcss #student-messages .django-warning { font-size: inherit; background=
+-color: rgb(255, 255, 175); color: rgb(0, 0, 0); padding: 5px; border-botto=
+m: 1px solid rgb(0, 0, 0); }
+
+.quizcss .file-adder { border: 5px dashed rgb(0, 0, 0); padding: 20px; text=
+-align: center; display: block; margin-top: 10px; }
+
+.quizcss .file-adder input[type=3D"file"] { width: 100%; }
+
+.quizcss .file-adder-over > * { pointer-events: none; }
+
+.quizcss .media-field-data > div { display: flex; align-items: center; padd=
+ing: 2px 5px; }
+
+.quizcss .media-field-data > div button { margin-left: auto; white-space: n=
+owrap; }
+
+.quizcss .loader { font-weight: 700; animation: 1s linear 0s infinite alter=
+nate none running c1; }
+
+@keyframes c1 {=20
+  100% { opacity: 0; }
+}
+
+.quizcss .media-field-capture input { display: none; }
+
+.quizcss .media-field-capture { display: flex; align-items: center; justify=
+-content: flex-end; }
+
+.quizcss .media-field-capture label, .quizcss .media-field-capture button {=
+ margin: 10px 0px 0px 30px; }
+
+.quizcss .media-field-capture-audio, .quizcss .media-field-capture-camera {=
+ width: 30px; height: 30px; background-size: 75% 75%; background-position: =
+50% center; background-repeat: no-repeat; background-color: rgb(211, 211, 2=
+11); border: 2px outset gray; }
+
+.quizcss .media-field-capture-audio:active, .quizcss .media-field-capture-c=
+amera:active { border: 2px inset gray; }
+
+.quizcss .media-field-capture-audio { background-image: url("../img/microph=
+one.svg"); }
+
+.quizcss .media-field-capture-camera { background-image: url("../img/camera=
+.svg"); }
+
+.quizcss .record-button { background-image: url("../img/microphone.svg"); w=
+idth: 100px; height: 100px; background-size: 75% 75%; background-position: =
+50% center; background-repeat: no-repeat; background-color: rgb(211, 211, 2=
+11); border: 2px outset gray; border-radius: 50%; }
+
+.quizcss .record-button-live { background-color: red; background-size: 35% =
+35%; background-image: url("../img/stop.svg"); }
+
+.quizcss .record-button-refresh { background-size: 35% 35%; background-imag=
+e: url("../img/arrows-rotate-solid.svg"); background-color: rgb(211, 211, 2=
+11); }
+
+.quizcss .record-button-submit { background-image: url("../img/check.svg");=
+ width: 100px; height: 100px; background-size: 50% 50%; background-position=
+: 50% center; background-repeat: no-repeat; background-color: rgb(211, 211,=
+ 211); border: 2px outset gray; border-radius: 50%; margin-top: 30px; }
+
+.quizcss .timestamper { margin-bottom: 30px; }
+
+.quizcss .record-canvas { position: absolute; width: 90px; height: 90px; bo=
+rder-radius: 50%; left: 5px; top: 5px; pointer-events: none; }
+
+.quizcss .modal { position: fixed; inset: 0px; z-index: 10; background-colo=
+r: rgba(0, 0, 0, 0.8); display: flex; align-items: center; justify-content:=
+ center; color: rgb(255, 255, 255); text-align: center; }
+
+.quizcss .modal-inner { overflow: auto; max-height: 100%; }
+
+.quizcss .modal-inner audio { display: block; }
+
+.quizcss .exit-button { position: absolute; right: 0px; top: 0px; width: 50=
+px; height: 50px; color: rgb(255, 255, 255); background: 0px 0px; border: n=
+one; font-size: 56px; font-family: monospace; line-height: 100%; z-index: 1=
+5; }
+------MultipartBoundary--KaM4gsnOlXKl4TXu3q9Zr2vlsXqMgKabEOeRmo1dwp----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://testmozusercontent.com/static/1717350659/css/print.css
+
+@charset "utf-8";
+
+* { box-shadow: 0px 0px !important; }
+
+.buttons { display: none !important; }
+
+html { padding: 0px; box-sizing: border-box; }
+
+body { max-width: 100%; box-sizing: border-box; font-size: 16px; }
+
+#content { box-sizing: border-box; }
+
+#submit, .submit, #header, #nav, #menu-button, .buttons, #sidebar { display=
+: none; }
+
+table.report-table { display: block; margin: 0px; }
+
+#content { width: 100%; margin: 0px; }
+
+.print-hide { display: none !important; }
+
+.question-wrapper, .answer textarea, .answer input[type=3D"text"], .compone=
+nt, .text-block { font-size: 12px; }
+
+.answer-wrapper { margin-top: 0px; }
+
+.admin-input { text-align: right; border: none; }
+
+input[type=3D"number"]::-webkit-outer-spin-button, input[type=3D"number"]::=
+-webkit-inner-spin-button { appearance: none; margin: 0px; }
+
+input[type=3D"number"] { }
+
+.component, .text-block { margin-top: 0px; margin-bottom: 0px; }
+
+.component-inner { padding: 5px 0px; }
+
+.quizcss .comment-area { display: none; }
+
+.quizcss .comment-area-has-comment { display: block; margin-top: 10px; }
+
+.quizcss .comment-area, .quizcss .comment-box { position: static; width: au=
+to; }
+
+.quizcss .comment-box { padding: 0px; }
+
+.quizcss .comment-box::before { display: none; }
+
+.quizcss .comment-textarea { max-height: none; overflow: visible; }
+
+.quizcss .screen-hide { display: inherit; }
+
+.quizcss .the-explanation > p.label { margin-top: 1rem; }
+
+.quizcss .the-explanation, .quizcss .comment-area-has-comment { padding: 0p=
+x; margin: 0px; }
+
+@media print {
+  .print-preview { display: none; }
+}
+------MultipartBoundary--KaM4gsnOlXKl4TXu3q9Zr2vlsXqMgKabEOeRmo1dwp------
